@@ -1,0 +1,12 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<short-name>ws-lib</short-name>
+	
+	<tag>
+		<body-content>empty</body-content>
+		<name>printWebsiteTitle</name>
+		<tag-class>ua.nure.sidak.SummaryTask4.web.tag.TagForWebSiteNamePrint</tag-class>
+	</tag>
+	
+</taglib>
